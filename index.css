@@ -1,0 +1,49 @@
+
+.plane{
+    height: 200px;
+    width: 200px;
+}
+
+.birds{
+    height: 300px;
+    width: 300px;
+}
+
+body{
+    
+
+    background-image: url("./images/bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.boy{
+    margin-top: 220px;
+    height: 120px;
+    width: 120px;
+    position:absolute;
+    z-index:-1;
+}
+
+.boy-green{
+    height: 200px;
+    width: 200px;
+}
+
+.van{
+    height: 280px;
+    width: 380px;
+    position:absolute;
+    z-index:-1;
+}
+
+.bird{
+    height: 200px;
+    width: 200px;
+    
+}
+
+.old{
+    height: 250px;
+}
